@@ -1,1 +1,2 @@
-# color-detection-using-python
+# color-detection-from-images
+color-detection-from-images
